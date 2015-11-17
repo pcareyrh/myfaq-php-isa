@@ -1,0 +1,15 @@
+662;new_session;0;10.33.80.163;;https://mail.corp.redhat.com/zimbra/;Mozilla/5.0 (Macintosh, Intel Mac OS X 10.10, rv:36.0) Gecko/20100101 Firefox/36.0;1426489393;
+663;new_session;0;10.36.4.194;action=artikel&cat=29&id=305&artlang=en;https://faq.saleslab.fab.redhat.com/?;Mozilla/5.0 (X11, Linux x86_64, rv:24.0) Gecko/20100101 Firefox/24.0;1426490592;
+664;article_view;305;10.36.4.194;action=artikel&cat=29&id=305&artlang=en;https://faq.saleslab.fab.redhat.com/?;Mozilla/5.0 (X11, Linux x86_64, rv:24.0) Gecko/20100101 Firefox/24.0;1426490592;
+665;new_session;0;10.36.5.123;;https://mail.corp.redhat.com/zimbra/;Mozilla/5.0 (Macintosh, Intel Mac OS X 10.10, rv:36.0) Gecko/20100101 Firefox/36.0;1426497359;
+666;new_session;0;10.36.6.56;;https://faq.saleslab.fab.redhat.com/?;Mozilla/5.0 (Macintosh, Intel Mac OS X 10.10, rv:36.0) Gecko/20100101 Firefox/36.0;1426513830;
+667;new_session;0;10.36.5.132;;;Mozilla/5.0 (X11, Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36;1426519848;
+668;new_session;0;10.36.116.130;;;Mozilla/5.0 (Macintosh, Intel Mac OS X 10.9, rv:36.0) Gecko/20100101 Firefox/36.0;1426522591;
+668;article_view;274;10.36.116.130;action=artikel&cat=1&id=274&artlang=en;https://faq.saleslab.fab.redhat.com/?;Mozilla/5.0 (Macintosh, Intel Mac OS X 10.9, rv:36.0) Gecko/20100101 Firefox/36.0;1426522656;
+668;article_view;14;10.36.116.130;action=artikel&cat=1&id=14&artlang=en;https://faq.saleslab.fab.redhat.com/content/1/274/en/what-rhel-skus-and-quantities-do-i-need-for.html;Mozilla/5.0 (Macintosh, Intel Mac OS X 10.9, rv:36.0) Gecko/20100101 Firefox/36.0;1426522687;
+668;article_view;90;10.36.116.130;action=artikel&cat=1&id=90&artlang=en;https://faq.saleslab.fab.redhat.com/content/1/14/en/what-is-rhel-for-sap.html;Mozilla/5.0 (Macintosh, Intel Mac OS X 10.9, rv:36.0) Gecko/20100101 Firefox/36.0;1426522705;
+668;sitemap;0;10.36.116.130;action=sitemap&letter=A&lang=en;https://faq.saleslab.fab.redhat.com/;Mozilla/5.0 (Macintosh, Intel Mac OS X 10.9, rv:36.0) Gecko/20100101 Firefox/36.0;1426522748;
+669;new_session;0;10.36.6.180;;;Mozilla/5.0 (X11, Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.76 Safari/537.36;1426544681;
+669;show_category;2;10.36.6.180;action=show&cat=2;https://faq.saleslab.fab.redhat.com/?;Mozilla/5.0 (X11, Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.76 Safari/537.36;1426544703;
+669;show_category;14;10.36.6.180;action=show&cat=14;https://faq.saleslab.fab.redhat.com/category/2/jboss-middleware.html;Mozilla/5.0 (X11, Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.76 Safari/537.36;1426544706;
+669;article_view;225;10.36.6.180;action=artikel&cat=14&id=225&artlang=en;https://faq.saleslab.fab.redhat.com/category/14/red-hat-jboss-fuse.html;Mozilla/5.0 (X11, Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.76 Safari/537.36;1426544736;

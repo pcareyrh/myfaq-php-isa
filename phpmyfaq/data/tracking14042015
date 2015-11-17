@@ -1,0 +1,9 @@
+782;new_session;0;10.36.6.153;action=artikel&cat=6&id=98&artlang=en;;Mozilla/5.0 (Macintosh, Intel Mac OS X 10.10, rv:37.0) Gecko/20100101 Firefox/37.0;1428990069;
+783;article_view;98;10.36.6.153;action=artikel&cat=6&id=98&artlang=en;;Mozilla/5.0 (Macintosh, Intel Mac OS X 10.10, rv:37.0) Gecko/20100101 Firefox/37.0;1428990069;
+782;article_view;98;10.36.6.153;action=artikel&cat=6&id=98&artlang=en;https://faq.saleslab.fab.redhat.com/content/6/98/en/what-are-the-rules-for-licensing-rhel-for-backup-servers-.html;Mozilla/5.0 (Macintosh, Intel Mac OS X 10.10, rv:37.0) Gecko/20100101 Firefox/37.0;1428990105;
+784;new_session;0;10.33.192.230;;https://faq.saleslab.fab.redhat.com/;Mozilla/5.0 (Macintosh, Intel Mac OS X 10_10_3) AppleWebKit/600.5.17 (KHTML, like Gecko) Version/8.0.5 Safari/600.5.17;1428996874;
+785;new_session;0;10.33.1.54;action=artikel&cat=6&id=53&artlang=en&highlight=developer;https://mail.corp.redhat.com/zimbra/;Mozilla/5.0 (X11, Linux x86_64, rv:31.0) Gecko/20100101 Firefox/31.0;1428999270;
+786;article_view;53;10.33.1.54;action=artikel&cat=6&id=53&artlang=en&highlight=developer;https://mail.corp.redhat.com/zimbra/;Mozilla/5.0 (X11, Linux x86_64, rv:31.0) Gecko/20100101 Firefox/31.0;1428999270;
+787;new_session;0;10.36.112.48;;https://mail.corp.redhat.com/zimbra/;Mozilla/5.0 (X11, Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36;1429023563;
+787;show_category;1;10.36.112.48;action=show&cat=1;https://faq.saleslab.fab.redhat.com/?;Mozilla/5.0 (X11, Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36;1429023719;
+787;show_category;1;10.36.112.48;action=show&cat=1&seite=2;https://faq.saleslab.fab.redhat.com/category/1/platform.html;Mozilla/5.0 (X11, Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.118 Safari/537.36;1429023729;

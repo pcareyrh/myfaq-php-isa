@@ -1,0 +1,12 @@
+968;new_session;0;10.36.4.95;;;Mozilla/5.0 (X11, Linux x86_64, rv:31.0) Gecko/20100101 Firefox/31.0;1432803619;
+968;fulltext_search;0;10.36.4.95;action=search;https://faq.saleslab.fab.redhat.com/?;Mozilla/5.0 (X11, Linux x86_64, rv:31.0) Gecko/20100101 Firefox/31.0;1432803671;
+968;fulltext_search;;10.36.4.95;action=search;https://faq.saleslab.fab.redhat.com/?;Mozilla/5.0 (X11, Linux x86_64, rv:31.0) Gecko/20100101 Firefox/31.0;1432803671;
+968;fulltext_search;0;10.36.4.95;search=High+Availability+Subscriptions&submit=&action=search&searchcategory=%25;https://faq.saleslab.fab.redhat.com/index.php?action=search;Mozilla/5.0 (X11, Linux x86_64, rv:31.0) Gecko/20100101 Firefox/31.0;1432803680;
+968;fulltext_search;High Availability Subscriptions;10.36.4.95;search=High+Availability+Subscriptions&submit=&action=search&searchcategory=%25;https://faq.saleslab.fab.redhat.com/index.php?action=search;Mozilla/5.0 (X11, Linux x86_64, rv:31.0) Gecko/20100101 Firefox/31.0;1432803680;
+968;article_view;48;10.36.4.95;action=artikel&cat=6&id=48&artlang=en&highlight=High%20Availability%20Subscriptions;https://faq.saleslab.fab.redhat.com/?search=High+Availability+Subscriptions&submit=&action=search&searchcategory=%25;Mozilla/5.0 (X11, Linux x86_64, rv:31.0) Gecko/20100101 Firefox/31.0;1432803703;
+968;show_category;3;10.36.4.95;action=show&cat=3;https://faq.saleslab.fab.redhat.com/content/6/48/en/does-my-customer-requires-high-availability-or-resilient-storage-to-implement-a-network-file-system-.html?highlight=High%20Availability%20Subscriptions;Mozilla/5.0 (X11, Linux x86_64, rv:31.0) Gecko/20100101 Firefox/31.0;1432803708;
+968;article_view;38;10.36.4.95;action=artikel&cat=3&id=38&artlang=en;https://faq.saleslab.fab.redhat.com/category/3/virtualization.html;Mozilla/5.0 (X11, Linux x86_64, rv:31.0) Gecko/20100101 Firefox/31.0;1432803715;
+969;new_session;0;10.33.24.107;;https://calendar.corp.redhat.com/zimbra/;Mozilla/5.0 (X11, Linux x86_64, rv:24.0) Gecko/20100101 Firefox/24.0;1432804264;
+970;new_session;0;10.36.4.49;;;Mozilla/5.0 (X11, Linux x86_64, rv:24.0) Gecko/20100101 Firefox/24.0;1432806078;
+971;new_session;0;10.33.24.105;;https://mail.corp.redhat.com/zimbra/;Mozilla/5.0 (X11, Linux x86_64, rv:24.0) Gecko/20100101 Firefox/24.0;1432820937;
+972;new_session;0;10.33.24.105;;https://mail.corp.redhat.com/zimbra/;Mozilla/5.0 (X11, Linux x86_64, rv:24.0) Gecko/20100101 Firefox/24.0;1432824897;

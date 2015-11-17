@@ -1,0 +1,13 @@
+1027;new_session;0;10.33.80.163;;https://mojo.redhat.com/docs/DOC-103822;Mozilla/5.0 (Macintosh, Intel Mac OS X 10.10, rv:38.0) Gecko/20100101 Firefox/38.0;1434525014;
+1028;new_session;0;10.10.48.180;;;Mozilla/5.0 (X11, Fedora, Linux x86_64, rv:38.0) Gecko/20100101 Firefox/38.0;1434527638;
+1029;new_session;0;10.33.1.121;;;Mozilla/5.0 (X11, Linux x86_64, rv:35.0) Gecko/20100101 Firefox/35.0;1434538353;
+1029;article_view;132;10.33.1.121;action=artikel&cat=19&id=132&artlang=en&highlight=arm%20chip;https://faq.saleslab.fab.redhat.com/?;Mozilla/5.0 (X11, Linux x86_64, rv:35.0) Gecko/20100101 Firefox/35.0;1434538376;
+1029;fulltext_search;0;10.33.1.121;action=search&tagging_id=46;https://faq.saleslab.fab.redhat.com/content/19/132/en/does-jboss-provide-benchmarks.html?highlight=arm%20chip;Mozilla/5.0 (X11, Linux x86_64, rv:35.0) Gecko/20100101 Firefox/35.0;1434538394;
+1029;fulltext_search;;10.33.1.121;action=search&tagging_id=46;https://faq.saleslab.fab.redhat.com/content/19/132/en/does-jboss-provide-benchmarks.html?highlight=arm%20chip;Mozilla/5.0 (X11, Linux x86_64, rv:35.0) Gecko/20100101 Firefox/35.0;1434538394;
+1030;new_session;0;10.33.1.24;;;Mozilla/5.0 (X11, Fedora, Linux x86_64, rv:38.0) Gecko/20100101 Firefox/38.0;1434554272;
+1031;new_session;0;10.33.24.177;;https://calendar.corp.redhat.com/zimbra/;Mozilla/5.0 (X11, Linux x86_64, rv:38.0) Gecko/20100101 Firefox/38.0;1434556354;
+1031;show_category;3;10.33.24.177;action=show&cat=3;https://faq.saleslab.fab.redhat.com/?;Mozilla/5.0 (X11, Linux x86_64, rv:38.0) Gecko/20100101 Firefox/38.0;1434556373;
+1031;fulltext_search;0;10.33.24.177;searchcategory=3&action=search&search=rhev+for+desktops&submit=;https://faq.saleslab.fab.redhat.com/category/3/virtualization.html;Mozilla/5.0 (X11, Linux x86_64, rv:38.0) Gecko/20100101 Firefox/38.0;1434556381;
+1031;fulltext_search;rhev for desktops;10.33.24.177;searchcategory=3&action=search&search=rhev+for+desktops&submit=;https://faq.saleslab.fab.redhat.com/category/3/virtualization.html;Mozilla/5.0 (X11, Linux x86_64, rv:38.0) Gecko/20100101 Firefox/38.0;1434556381;
+1031;fulltext_search;0;10.33.24.177;action=search&search=rhev+for+desktops&searchcategory=3&seite=2;https://faq.saleslab.fab.redhat.com/?searchcategory=3&action=search&search=rhev+for+desktops&submit=;Mozilla/5.0 (X11, Linux x86_64, rv:38.0) Gecko/20100101 Firefox/38.0;1434556424;
+1031;fulltext_search;rhev for desktops;10.33.24.177;action=search&search=rhev+for+desktops&searchcategory=3&seite=2;https://faq.saleslab.fab.redhat.com/?searchcategory=3&action=search&search=rhev+for+desktops&submit=;Mozilla/5.0 (X11, Linux x86_64, rv:38.0) Gecko/20100101 Firefox/38.0;1434556424;

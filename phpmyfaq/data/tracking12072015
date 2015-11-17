@@ -1,0 +1,5 @@
+1154;new_session;0;10.67.7.211;;https://mojo.redhat.com/docs/DOC-103822;Mozilla/5.0 (X11, Linux x86_64, rv:38.0) Gecko/20100101 Firefox/38.0;1436697879;
+1154;show_category;2;10.67.7.211;action=show&cat=2;https://faq.saleslab.fab.redhat.com/?;Mozilla/5.0 (X11, Linux x86_64, rv:38.0) Gecko/20100101 Firefox/38.0;1436697899;
+1154;show_category;16;10.67.7.211;action=show&cat=16;https://faq.saleslab.fab.redhat.com/category/2/jboss-middleware.html;Mozilla/5.0 (X11, Linux x86_64, rv:38.0) Gecko/20100101 Firefox/38.0;1436697906;
+1154;article_view;235;10.67.7.211;action=artikel&cat=16&id=235&artlang=en;https://faq.saleslab.fab.redhat.com/category/16/red-hat-jboss-data-virtualization.html;Mozilla/5.0 (X11, Linux x86_64, rv:38.0) Gecko/20100101 Firefox/38.0;1436697919;
+1154;article_view;211;10.67.7.211;action=artikel&cat=16&id=211&artlang=en;https://faq.saleslab.fab.redhat.com/category/16/red-hat-jboss-data-virtualization.html;Mozilla/5.0 (X11, Linux x86_64, rv:38.0) Gecko/20100101 Firefox/38.0;1436697924;

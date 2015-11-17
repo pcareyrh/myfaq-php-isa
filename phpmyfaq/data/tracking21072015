@@ -1,0 +1,6 @@
+1184;new_session;0;10.33.24.104;;https://mail.corp.redhat.com/zimbra/;Mozilla/5.0 (X11, Linux x86_64, rv:38.0) Gecko/20100101 Firefox/38.0;1437469646;
+1184;show_category;21;10.33.24.104;action=show&cat=21;https://faq.saleslab.fab.redhat.com/?;Mozilla/5.0 (X11, Linux x86_64, rv:38.0) Gecko/20100101 Firefox/38.0;1437469664;
+1184;show_category;1;10.33.24.104;action=show&cat=1;https://faq.saleslab.fab.redhat.com/category/21/other.html;Mozilla/5.0 (X11, Linux x86_64, rv:38.0) Gecko/20100101 Firefox/38.0;1437469669;
+1184;show_category;7;10.33.24.104;action=show&cat=7;https://faq.saleslab.fab.redhat.com/category/1/platform.html;Mozilla/5.0 (X11, Linux x86_64, rv:38.0) Gecko/20100101 Firefox/38.0;1437469671;
+1184;show_category;7;10.33.24.104;action=show&cat=7&seite=2;https://faq.saleslab.fab.redhat.com/category/7/red-hat-satellite.html;Mozilla/5.0 (X11, Linux x86_64, rv:38.0) Gecko/20100101 Firefox/38.0;1437469687;
+1184;article_view;108;10.33.24.104;action=artikel&cat=7&id=108&artlang=en;https://faq.saleslab.fab.redhat.com/category/7/2/what-about-running-satellite-in-security-sensitive-environments-disconnected-mode.html;Mozilla/5.0 (X11, Linux x86_64, rv:38.0) Gecko/20100101 Firefox/38.0;1437469699;

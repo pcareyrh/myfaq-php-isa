@@ -1,0 +1,15 @@
+360;new_session;0;10.32.64.38;;;Mozilla/5.0 (X11, Linux x86_64, rv:24.0) Gecko/20100101 Firefox/24.0;1424332573;
+361;new_session;0;10.33.1.187;action=show&cat=31;;Mozilla/5.0 (X11, Linux x86_64, rv:24.0) Gecko/20100101 Firefox/24.0;1424350962;
+362;show_category;31;10.33.1.187;action=show&cat=31;;Mozilla/5.0 (X11, Linux x86_64, rv:24.0) Gecko/20100101 Firefox/24.0;1424350962;
+361;show_category;31;10.33.1.187;action=show&cat=31;https://faq.saleslab.fab.redhat.com/phpmyfaq/category/31/training.html;Mozilla/5.0 (X11, Linux x86_64, rv:24.0) Gecko/20100101 Firefox/24.0;1424350971;
+361;show_category;2;10.33.1.187;action=show&cat=2;https://faq.saleslab.fab.redhat.com/?action=show&cat=31;Mozilla/5.0 (X11, Linux x86_64, rv:24.0) Gecko/20100101 Firefox/24.0;1424350985;
+361;fulltext_search;0;10.33.1.187;searchcategory=2&action=search&search=drools&submit=;https://faq.saleslab.fab.redhat.com/category/2/jboss-middleware.html;Mozilla/5.0 (X11, Linux x86_64, rv:24.0) Gecko/20100101 Firefox/24.0;1424350994;
+361;fulltext_search;drools;10.33.1.187;searchcategory=2&action=search&search=drools&submit=;https://faq.saleslab.fab.redhat.com/category/2/jboss-middleware.html;Mozilla/5.0 (X11, Linux x86_64, rv:24.0) Gecko/20100101 Firefox/24.0;1424350994;
+361;fulltext_search;0;10.33.1.187;search=drools&submit=&action=search&searchcategory=%25;https://faq.saleslab.fab.redhat.com/?searchcategory=2&action=search&search=drools&submit=;Mozilla/5.0 (X11, Linux x86_64, rv:24.0) Gecko/20100101 Firefox/24.0;1424351019;
+361;fulltext_search;drools;10.33.1.187;search=drools&submit=&action=search&searchcategory=%25;https://faq.saleslab.fab.redhat.com/?searchcategory=2&action=search&search=drools&submit=;Mozilla/5.0 (X11, Linux x86_64, rv:24.0) Gecko/20100101 Firefox/24.0;1424351019;
+361;fulltext_search;0;10.33.1.187;search=drools&submit=&action=search&searchcategory=%25;https://faq.saleslab.fab.redhat.com/?search=drools&submit=&action=search&searchcategory=%25;Mozilla/5.0 (X11, Linux x86_64, rv:24.0) Gecko/20100101 Firefox/24.0;1424351026;
+361;fulltext_search;drools;10.33.1.187;search=drools&submit=&action=search&searchcategory=%25;https://faq.saleslab.fab.redhat.com/?search=drools&submit=&action=search&searchcategory=%25;Mozilla/5.0 (X11, Linux x86_64, rv:24.0) Gecko/20100101 Firefox/24.0;1424351026;
+363;new_session;0;10.33.1.121;;;Mozilla/5.0 (X11, Linux x86_64, rv:35.0) Gecko/20100101 Firefox/35.0;1424357308;
+364;new_session;0;10.33.1.224;;;Mozilla/5.0 (X11, Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36;1424358413;
+364;article_view;46;10.33.1.224;action=artikel&cat=30&id=46&artlang=en;https://faq.saleslab.fab.redhat.com/admin/index.php?action=statistics;Mozilla/5.0 (X11, Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36;1424358477;
+364;article_view;46;10.33.1.224;action=artikel&cat=30&id=46&artlang=en;https://faq.saleslab.fab.redhat.com/admin/index.php?action=statistics;Mozilla/5.0 (X11, Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.111 Safari/537.36;1424358546;

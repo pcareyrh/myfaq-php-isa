@@ -1,0 +1,13 @@
+893;new_session;0;10.33.1.24;;;Mozilla/5.0 (X11, Fedora, Linux x86_64, rv:37.0) Gecko/20100101 Firefox/37.0;1431513147;
+893;show_category;1;10.33.1.24;action=show&cat=1;https://faq.saleslab.fab.redhat.com/;Mozilla/5.0 (X11, Fedora, Linux x86_64, rv:37.0) Gecko/20100101 Firefox/37.0;1431513150;
+893;show_category;33;10.33.1.24;action=show&cat=33;https://faq.saleslab.fab.redhat.com/category/1/platform.html;Mozilla/5.0 (X11, Fedora, Linux x86_64, rv:37.0) Gecko/20100101 Firefox/37.0;1431513152;
+893;article_view;307;10.33.1.24;action=artikel&cat=33&id=307&artlang=en;https://faq.saleslab.fab.redhat.com/category/33/containers-atomic-docker-etc.html;Mozilla/5.0 (X11, Fedora, Linux x86_64, rv:37.0) Gecko/20100101 Firefox/37.0;1431513160;
+893;show_category;33;10.33.1.24;action=show&cat=33;https://faq.saleslab.fab.redhat.com/content/33/307/en/why-would-a-customer-use-containers-when-they-have-virtualisation.html;Mozilla/5.0 (X11, Fedora, Linux x86_64, rv:37.0) Gecko/20100101 Firefox/37.0;1431513241;
+893;article_view;308;10.33.1.24;action=artikel&cat=33&id=308&artlang=en;https://faq.saleslab.fab.redhat.com/category/33/containers-atomic-docker-etc.html;Mozilla/5.0 (X11, Fedora, Linux x86_64, rv:37.0) Gecko/20100101 Firefox/37.0;1431513245;
+893;show_category;33;10.33.1.24;action=show&cat=33;https://faq.saleslab.fab.redhat.com/content/33/308/en/how-secure-are-containers.html;Mozilla/5.0 (X11, Fedora, Linux x86_64, rv:37.0) Gecko/20100101 Firefox/37.0;1431513272;
+893;article_view;315;10.33.1.24;action=artikel&cat=33&id=315&artlang=en;https://faq.saleslab.fab.redhat.com/category/33/containers-atomic-docker-etc.html;Mozilla/5.0 (X11, Fedora, Linux x86_64, rv:37.0) Gecko/20100101 Firefox/37.0;1431513275;
+894;new_session;0;10.33.1.24;;;Mozilla/5.0 (X11, Fedora, Linux x86_64, rv:37.0) Gecko/20100101 Firefox/37.0;1431522735;
+894;article_view;315;10.33.1.24;action=artikel&cat=33&id=315&artlang=en&highlight=atomic;https://faq.saleslab.fab.redhat.com/index.php;Mozilla/5.0 (X11, Fedora, Linux x86_64, rv:37.0) Gecko/20100101 Firefox/37.0;1431523069;
+895;new_session;0;10.35.7.40;;https://faq.saleslab.fab.redhat.com/category/25/openshift.html;Mozilla/5.0 (X11, Linux x86_64, rv:31.0) Gecko/20100101 Firefox/31.0;1431525369;
+896;new_session;0;10.11.216.146;action=show&cat=33;;Mozilla/5.0 (X11, Linux x86_64, rv:31.0) Gecko/20100101 Firefox/31.0;1431536717;
+897;show_category;33;10.11.216.146;action=show&cat=33;;Mozilla/5.0 (X11, Linux x86_64, rv:31.0) Gecko/20100101 Firefox/31.0;1431536717;

@@ -1,0 +1,10 @@
+1296;new_session;0;10.36.5.22;;;Mozilla/5.0 (X11, Linux x86_64, rv:38.0) Gecko/20100101 Firefox/38.0;1439565553;
+1296;article_view;341;10.36.5.22;action=artikel&cat=1&id=341&artlang=en&highlight=cluster%20suite;https://faq.saleslab.fab.redhat.com/?;Mozilla/5.0 (X11, Linux x86_64, rv:38.0) Gecko/20100101 Firefox/38.0;1439565606;
+1296;show_category;32;10.36.5.22;action=show&cat=32;https://faq.saleslab.fab.redhat.com/index.html;Mozilla/5.0 (X11, Linux x86_64, rv:38.0) Gecko/20100101 Firefox/38.0;1439565633;
+1296;show_category;1;10.36.5.22;action=show&cat=1;https://faq.saleslab.fab.redhat.com/category/32/common-sales-pitches.html;Mozilla/5.0 (X11, Linux x86_64, rv:38.0) Gecko/20100101 Firefox/38.0;1439565641;
+1296;show_category;33;10.36.5.22;action=show&cat=33;https://faq.saleslab.fab.redhat.com/category/1/platform.html;Mozilla/5.0 (X11, Linux x86_64, rv:38.0) Gecko/20100101 Firefox/38.0;1439565646;
+1296;article_view;308;10.36.5.22;action=artikel&cat=33&id=308&artlang=en;https://faq.saleslab.fab.redhat.com/category/33/containers-atomic-docker-etc.html;Mozilla/5.0 (X11, Linux x86_64, rv:38.0) Gecko/20100101 Firefox/38.0;1439565659;
+1296;show_category;33;10.36.5.22;action=show&cat=33;https://faq.saleslab.fab.redhat.com/content/33/308/en/how-secure-are-containers.html;Mozilla/5.0 (X11, Linux x86_64, rv:38.0) Gecko/20100101 Firefox/38.0;1439565693;
+1296;article_view;307;10.36.5.22;action=artikel&cat=33&id=307&artlang=en;https://faq.saleslab.fab.redhat.com/category/33/containers-atomic-docker-etc.html;Mozilla/5.0 (X11, Linux x86_64, rv:38.0) Gecko/20100101 Firefox/38.0;1439565697;
+1296;show_category;4;10.36.5.22;action=show&cat=4;https://faq.saleslab.fab.redhat.com/content/33/307/en/why-would-a-customer-use-containers-when-they-have-virtualisation.html;Mozilla/5.0 (X11, Linux x86_64, rv:38.0) Gecko/20100101 Firefox/38.0;1439565720;
+1296;show_category;24;10.36.5.22;action=show&cat=24;https://faq.saleslab.fab.redhat.com/category/4/cloud.html;Mozilla/5.0 (X11, Linux x86_64, rv:38.0) Gecko/20100101 Firefox/38.0;1439565725;

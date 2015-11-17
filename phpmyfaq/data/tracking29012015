@@ -1,0 +1,10 @@
+204;new_session;0;10.33.1.91;action=show&cat=31;;Mozilla/5.0 (X11, Linux x86_64, rv:24.0) Gecko/20100101 Firefox/24.0;1422538113;
+205;show_all_categories;0;10.33.1.91;action=show&cat=31;;Mozilla/5.0 (X11, Linux x86_64, rv:24.0) Gecko/20100101 Firefox/24.0;1422538113;
+204;show_category;31;10.33.1.91;action=show&cat=31;https://faq.saleslab.fab.redhat.com/phpmyfaq/category/31/training.html;Mozilla/5.0 (X11, Linux x86_64, rv:24.0) Gecko/20100101 Firefox/24.0;1422538120;
+204;show_category;1;10.33.1.91;action=show&cat=1;https://faq.saleslab.fab.redhat.com/?action=show&cat=31;Mozilla/5.0 (X11, Linux x86_64, rv:24.0) Gecko/20100101 Firefox/24.0;1422538128;
+204;fulltext_search;0;10.33.1.91;searchcategory=1&action=search&search=updates+RHEL+Desktop&submit=;https://faq.saleslab.fab.redhat.com/category/1/platform.html;Mozilla/5.0 (X11, Linux x86_64, rv:24.0) Gecko/20100101 Firefox/24.0;1422538143;
+204;fulltext_search;updates RHEL Desktop;10.33.1.91;searchcategory=1&action=search&search=updates+RHEL+Desktop&submit=;https://faq.saleslab.fab.redhat.com/category/1/platform.html;Mozilla/5.0 (X11, Linux x86_64, rv:24.0) Gecko/20100101 Firefox/24.0;1422538143;
+206;new_session;0;10.33.1.91;searchcategory=1&action=search&search=updates+RHEL+Desktop&submit=;https://faq.saleslab.fab.redhat.com/category/1/platform.html;Mozilla/5.0 (X11, Linux x86_64, rv:24.0) Gecko/20100101 Firefox/24.0;1422546714;
+207;fulltext_search;0;10.33.1.91;searchcategory=1&action=search&search=updates+RHEL+Desktop&submit=;https://faq.saleslab.fab.redhat.com/category/1/platform.html;Mozilla/5.0 (X11, Linux x86_64, rv:24.0) Gecko/20100101 Firefox/24.0;1422546714;
+208;fulltext_search;updates RHEL Desktop;10.33.1.91;searchcategory=1&action=search&search=updates+RHEL+Desktop&submit=;https://faq.saleslab.fab.redhat.com/category/1/platform.html;Mozilla/5.0 (X11, Linux x86_64, rv:24.0) Gecko/20100101 Firefox/24.0;1422546714;
+209;new_session;0;10.36.112.20;;;Mozilla/5.0 (X11, Linux x86_64) AppleWebKit/601.1 (KHTML, like Gecko) Version/8.0 Safari/601.1 Epiphany/3.14.2;1422555875;

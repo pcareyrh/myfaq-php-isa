@@ -1,0 +1,13 @@
+128;new_session;0;10.33.1.62;;;Mozilla/5.0 (X11, Linux x86_64, rv:34.0) Gecko/20100101 Firefox/34.0;1418830435;
+128;article_view;176;10.33.1.62;action=artikel&cat=10&id=176&artlang=en&highlight=recover;https://faq.saleslab.fab.redhat.com/?;Mozilla/5.0 (X11, Linux x86_64, rv:34.0) Gecko/20100101 Firefox/34.0;1418830497;
+128;show_all_categories;0;10.33.1.62;action=show;https://faq.saleslab.fab.redhat.com/content/10/176/en/how-does-jdg-handle-disaster-recovery-and-business-continuity.html?highlight=recover;Mozilla/5.0 (X11, Linux x86_64, rv:34.0) Gecko/20100101 Firefox/34.0;1418830539;
+128;show_category;1;10.33.1.62;action=show&cat=1;https://faq.saleslab.fab.redhat.com/showcat.html;Mozilla/5.0 (X11, Linux x86_64, rv:34.0) Gecko/20100101 Firefox/34.0;1418830543;
+128;fulltext_search;0;10.33.1.62;action=search&tagging_id=559;https://faq.saleslab.fab.redhat.com/category/1/platform.html;Mozilla/5.0 (X11, Linux x86_64, rv:34.0) Gecko/20100101 Firefox/34.0;1418830555;
+128;fulltext_search;;10.33.1.62;action=search&tagging_id=559;https://faq.saleslab.fab.redhat.com/category/1/platform.html;Mozilla/5.0 (X11, Linux x86_64, rv:34.0) Gecko/20100101 Firefox/34.0;1418830555;
+128;article_view;44;10.33.1.62;action=artikel&cat=19&id=44&artlang=en;https://faq.saleslab.fab.redhat.com/index.php?action=glossary&page=1;Mozilla/5.0 (X11, Linux x86_64, rv:34.0) Gecko/20100101 Firefox/34.0;1418830605;
+128;show_category;1;10.33.1.62;action=show&cat=1;https://faq.saleslab.fab.redhat.com/content/19/44/en/where-can-i-find-jboss-product-life_cycle.html;Mozilla/5.0 (X11, Linux x86_64, rv:34.0) Gecko/20100101 Firefox/34.0;1418830695;
+128;fulltext_search;0;10.33.1.62;searchcategory=1&action=search&search=recovery&submit=;https://faq.saleslab.fab.redhat.com/category/1/platform.html;Mozilla/5.0 (X11, Linux x86_64, rv:34.0) Gecko/20100101 Firefox/34.0;1418830704;
+128;fulltext_search;recovery;10.33.1.62;searchcategory=1&action=search&search=recovery&submit=;https://faq.saleslab.fab.redhat.com/category/1/platform.html;Mozilla/5.0 (X11, Linux x86_64, rv:34.0) Gecko/20100101 Firefox/34.0;1418830704;
+128;article_view;98;10.33.1.62;action=artikel&cat=6&id=98&artlang=en&highlight=recovery;https://faq.saleslab.fab.redhat.com/?searchcategory=1&action=search&search=recovery&submit=;Mozilla/5.0 (X11, Linux x86_64, rv:34.0) Gecko/20100101 Firefox/34.0;1418830711;
+128;article_view;98;10.33.1.62;action=artikel&cat=6&id=98&artlang=en;;Mozilla/5.0 (X11, Linux x86_64, rv:34.0) Gecko/20100101 Firefox/34.0;1418830761;
+128;article_view;98;10.33.1.62;action=artikel&cat=6&id=98&artlang=en;;Mozilla/5.0 (X11, Linux x86_64, rv:34.0) Gecko/20100101 Firefox/34.0;1418830853;

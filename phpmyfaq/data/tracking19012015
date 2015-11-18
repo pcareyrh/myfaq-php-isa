@@ -1,9 +1,0 @@
-159;new_session;0;10.33.1.224;;https://faq.saleslab.fab.redhat.com/admin/index.php?action=editentry&id=284&lang=en;Mozilla/5.0 (X11, Linux x86_64, rv:35.0) Gecko/20100101 Firefox/35.0;1421659395;
-160;new_session;0;10.33.1.224;action=show&cat=3;https://faq.saleslab.fab.redhat.com/index.php;Mozilla/5.0 (X11, Linux x86_64, rv:35.0) Gecko/20100101 Firefox/35.0;1421665577;
-161;show_category;3;10.33.1.224;action=show&cat=3;https://faq.saleslab.fab.redhat.com/index.php;Mozilla/5.0 (X11, Linux x86_64, rv:35.0) Gecko/20100101 Firefox/35.0;1421665577;
-160;article_view;272;10.33.1.224;action=artikel&cat=3&id=272&artlang=en;https://faq.saleslab.fab.redhat.com/category/3/virtualization.html;Mozilla/5.0 (X11, Linux x86_64, rv:35.0) Gecko/20100101 Firefox/35.0;1421665584;
-160;show_category;20;10.33.1.224;action=show&cat=20;https://faq.saleslab.fab.redhat.com/content/3/272/en/is-it-possible-to-deploy-rhel-server-virtual-machines-on-xen-hypervisor-.html;Mozilla/5.0 (X11, Linux x86_64, rv:35.0) Gecko/20100101 Firefox/35.0;1421665662;
-160;show_category;1;10.33.1.224;action=show&cat=1;https://faq.saleslab.fab.redhat.com/category/20/red-hat-enterprise-virtualization.html;Mozilla/5.0 (X11, Linux x86_64, rv:35.0) Gecko/20100101 Firefox/35.0;1421665673;
-160;show_category;6;10.33.1.224;action=show&cat=6;https://faq.saleslab.fab.redhat.com/category/1/platform.html;Mozilla/5.0 (X11, Linux x86_64, rv:35.0) Gecko/20100101 Firefox/35.0;1421665676;
-160;show_category;7;10.33.1.224;action=show&cat=7;https://faq.saleslab.fab.redhat.com/category/6/red-hat-enterprise-linux.html;Mozilla/5.0 (X11, Linux x86_64, rv:35.0) Gecko/20100101 Firefox/35.0;1421665683;
-162;new_session;0;10.33.1.224;;;Mozilla/5.0 (X11, Linux x86_64) AppleWebKit/601.1 (KHTML, like Gecko) Version/8.0 Safari/601.1 Epiphany/3.14.2;1421683200;

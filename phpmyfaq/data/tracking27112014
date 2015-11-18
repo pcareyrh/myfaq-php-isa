@@ -1,7 +1,0 @@
-32;new_session;0;10.33.1.62;;;Mozilla/5.0 (X11, Linux x86_64, rv:33.0) Gecko/20100101 Firefox/33.0;1417084489;
-33;new_session;0;10.33.1.99;action=show&cat=31;;Mozilla/5.0 (X11, Linux x86_64, rv:24.0) Gecko/20100101 Firefox/24.0;1417096650;
-34;show_all_categories;0;10.33.1.99;action=show&cat=31;;Mozilla/5.0 (X11, Linux x86_64, rv:24.0) Gecko/20100101 Firefox/24.0;1417096650;
-35;new_session;0;10.33.1.99;action=show&cat=31;https://faq.saleslab.fab.redhat.com/phpmyfaq/category/31/training.html;Mozilla/5.0 (X11, Linux x86_64, rv:24.0) Gecko/20100101 Firefox/24.0;1417096656;
-36;show_category;31;10.33.1.99;action=show&cat=31;https://faq.saleslab.fab.redhat.com/phpmyfaq/category/31/training.html;Mozilla/5.0 (X11, Linux x86_64, rv:24.0) Gecko/20100101 Firefox/24.0;1417096656;
-35;show_category;31;10.33.1.99;action=show&cat=31;https://faq.saleslab.fab.redhat.com/?action=show&cat=31;Mozilla/5.0 (X11, Linux x86_64, rv:24.0) Gecko/20100101 Firefox/24.0;1417096669;
-37;new_session;0;10.33.1.62;;;Mozilla/5.0 (X11, Linux x86_64, rv:33.0) Gecko/20100101 Firefox/33.0;1417100547;

@@ -81,7 +81,10 @@ if (!$network->checkIp($_SERVER['REMOTE_ADDR'])) {
 //
 // Check, if user is logged in
 //
-$user = PMF_User_CurrentUser::getFromSession($faqConfig);
+$user = PMF_User_CurrentUser::getFromCookie($faqConfig);
+if (! $user instanceof PMF_User_CurrentUser) {
+    $user = PMF_User_CurrentUser::getFromSession($faqConfig);
+}
 if ($user instanceof PMF_User_CurrentUser) {
     $isLoggedIn = true;
 } else {
@@ -168,7 +171,7 @@ switch ($action) {
                         $emailTo = $faq->faqRecord['email'];
                     }
                     $faqUrl = sprintf(
-                        '%s?action=artikel&amp;cat=%d&amp;id=%d&amp;artlang=%s',
+                        '%s?action=artikel&cat=%d&id=%d&artlang=%s',
                         $faqConfig->get('main.referenceURL'),
                         $category->getCategoryIdFromArticle($faq->faqRecord['id']),
                         $faq->faqRecord['id'],
@@ -185,7 +188,7 @@ switch ($action) {
                     if ($news['authorEmail'] != '') {
                         $emailTo = $news['authorEmail'];
                     }
-                    $link = sprintf('%s?action=news&amp;newsid=%d&amp;newslang=%s',
+                    $link = sprintf('%s?action=news&newsid=%d&newslang=%s',
                         $faqConfig->get('main.referenceURL'),
                         $news['id'],
                         $news['lang']

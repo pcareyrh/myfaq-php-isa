@@ -20,8 +20,8 @@ Options +FollowSymlinks -MultiViews -Indexes
 RewriteEngine On
 
 # the path to your phpMyFAQ installation
-#RewriteBase /phpmyfaq/
-RewriteBase /
+RewriteBase /phpmyfaq/
+#RewriteBase /
 
 # Maintenance Section - Uncomment the lines below according to your need
 # Write below your client IP address (e.g.: 127.0.0.1)

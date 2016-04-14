@@ -171,7 +171,9 @@ class PMF_Ldap
         if ('' === $rdn && '' === $password) {
             return ldap_bind($this->ds);
         } else {
-            return ldap_bind($this->ds, $rdn, $password);
+# PCAREY - REQUIRED FOR LDAP TO WORK IN OPENSHIFT. 20160414
+ #           return ldap_bind($this->ds, $rdn, $password);
+            return ldap_bind($this->ds);
         }
     }
 

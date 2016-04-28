@@ -1,7 +1,5 @@
 <?php
 // Main LDAP server
-#$PMF_LDAP['ldap_server'] = 'ldaps://ldap.corp.redhat.com';
-#$PMF_LDAP['ldap_port'] = '636';
 $PMF_LDAP['ldap_server'] = 'ldap.corp.redhat.com';
 $PMF_LDAP['ldap_port'] = '389';
 $PMF_LDAP['ldap_user'] = '';

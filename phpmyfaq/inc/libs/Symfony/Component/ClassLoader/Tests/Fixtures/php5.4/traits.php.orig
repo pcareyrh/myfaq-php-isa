@@ -1,0 +1,39 @@
+<?php
+<<<<<<< HEAD
+=======
+
+>>>>>>> production_Apr_16/master
+namespace {
+    trait TFoo
+    {
+    }
+
+    class CFoo
+    {
+        use TFoo;
+    }
+}
+
+namespace Foo {
+    trait TBar
+    {
+    }
+
+    interface IBar
+    {
+    }
+
+    trait TFooBar
+    {
+    }
+
+    class CBar implements IBar
+    {
+<<<<<<< HEAD
+        use TBar, TFooBar;
+=======
+        use TBar;
+        use TFooBar;
+>>>>>>> production_Apr_16/master
+    }
+}

@@ -181,7 +181,7 @@ class PMF_Helper_Search extends PMF_Helper
         }
         
 	// ISA Team Change
-	$html .= "<p><h2>Couldn't find the answer you were looking for? Please open a new ticket by clicking on one of the links below: 
+        $html .= "<p><h2>Couldn't find the answer you were looking for? Please open a new ticket by clicking on one of the links below: 
                          <br><br> 
                          EMEA: <a href=\"https://url.corp.redhat.com/isa-emea-form\">new Ticket for EMEA</a>.
                          <br><br>
@@ -355,7 +355,14 @@ class PMF_Helper_Search extends PMF_Helper
         }
 
         // ISA Team Change                                                                                                                                                                   
-        $html .= "<p><h2>Couldn't find the answer you were looking for? Please open a <a href=\"https://url.corp.redhat.com/isa-emea-form\">new Ticket</a>.</h2><br><br></p>";
+        $html .= "<p><h2>Couldn't find the answer you were looking for? Please open a new ticket by clicking on one of the links below:
+                         <br><br>
+                         EMEA: <a href=\"https://url.corp.redhat.com/isa-emea-form\">new Ticket for EMEA</a>.
+                         <br><br>
+                         APAC: <a href=\"https://url.corp.redhat.com/isa-request\">new Ticket for APAC</a>.
+                     </h2>
+                     <br><br><br>
+                  </p>";
 
         return $html;
     }

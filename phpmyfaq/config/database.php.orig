@@ -1,0 +1,14 @@
+<?php
+<<<<<<< HEAD
+$DB['server'] = '127.8.155.2';
+$DB['user'] = 'admin8fHYxEL';
+$DB['password'] = '7XWvQ4phl6Hm';
+=======
+$DB['server'] = 'localhost';
+$DB['user'] = 'faq';
+$DB['password'] = '*84CE9B497F13D6CC1F8BF83D351DDB4D60AF0124';
+$DB['password'] = 'foo';
+>>>>>>> production_Apr_16/master
+$DB['db'] = 'faq';
+$DB['prefix'] = '';
+$DB['type'] = 'mysqli';

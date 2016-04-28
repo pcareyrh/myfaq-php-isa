@@ -1,0 +1,40 @@
+<?php
+<<<<<<< HEAD
+namespace {
+    class A {}
+}
+
+namespace Alpha {
+    class A {}
+    class B {}
+}
+
+namespace Beta {
+    class A {}
+    class B {}
+=======
+
+namespace {
+    class A
+    {
+    }
+}
+
+namespace Alpha {
+    class A
+    {
+    }
+    class B
+    {
+    }
+}
+
+namespace Beta {
+    class A
+    {
+    }
+    class B
+    {
+    }
+>>>>>>> production_Apr_16/master
+}

@@ -225,7 +225,7 @@ class PMF_Search
         $byLang = $withLang ? ', lang' : '';
         $query  = sprintf("
             SELECT 
-                id, searchterm, COUNT(searchterm) AS number %s
+                MIN(id), searchterm, COUNT(searchterm) AS number %s
             FROM
                 %s
             GROUP BY
@@ -235,7 +235,8 @@ class PMF_Search
             DESC",
             $byLang, 
             $this->_table, 
-            $byLang);
+            $byLang
+        );
         
         $result = $this->_config->getDb()->query($query);
         

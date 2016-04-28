@@ -1,0 +1,11 @@
+<?php
+
+namespace ClassesWithParents;
+
+<<<<<<< HEAD
+class B implements CInterface {}
+=======
+class B implements CInterface
+{
+}
+>>>>>>> production_Apr_16/master

@@ -1,0 +1,14 @@
+<?php
+// Main LDAP server
+<<<<<<< HEAD
+$PMF_LDAP['ldap_server'] = 'ldap.corp.redhat.com';
+$PMF_LDAP['ldap_port'] = '389';
+=======
+$PMF_LDAP['ldap_server'] = 'ldaps://ldap.corp.redhat.com';
+$PMF_LDAP['ldap_port'] = '636';
+#$PMF_LDAP['ldap_server'] = 'ldap.corp.redhat.com';
+#$PMF_LDAP['ldap_port'] = '389';
+>>>>>>> production_Apr_16/master
+$PMF_LDAP['ldap_user'] = '';
+$PMF_LDAP['ldap_password'] = '';
+$PMF_LDAP['ldap_base'] = 'ou=users,dc=redhat,dc=com';

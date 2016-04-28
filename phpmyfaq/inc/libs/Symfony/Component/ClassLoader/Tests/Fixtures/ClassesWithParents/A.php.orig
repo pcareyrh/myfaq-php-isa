@@ -1,0 +1,11 @@
+<?php
+
+namespace ClassesWithParents;
+
+<<<<<<< HEAD
+class A extends B {}
+=======
+class A extends B
+{
+}
+>>>>>>> production_Apr_16/master

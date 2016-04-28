@@ -1,0 +1,51 @@
+{
+    "name": "symfony/class-loader",
+    "type": "library",
+    "description": "Symfony ClassLoader Component",
+    "keywords": [],
+<<<<<<< HEAD
+    "homepage": "http://symfony.com",
+=======
+    "homepage": "https://symfony.com",
+>>>>>>> production_Apr_16/master
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Fabien Potencier",
+            "email": "fabien@symfony.com"
+        },
+        {
+            "name": "Symfony Community",
+<<<<<<< HEAD
+            "homepage": "http://symfony.com/contributors"
+=======
+            "homepage": "https://symfony.com/contributors"
+>>>>>>> production_Apr_16/master
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "require-dev": {
+<<<<<<< HEAD
+        "symfony/finder": "~2.0"
+=======
+        "symfony/phpunit-bridge": "~2.7",
+        "symfony/finder": "~2.0,>=2.0.5"
+>>>>>>> production_Apr_16/master
+    },
+    "autoload": {
+        "psr-0": { "Symfony\\Component\\ClassLoader\\": "" }
+    },
+    "target-dir": "Symfony/Component/ClassLoader",
+    "extra": {
+        "branch-alias": {
+<<<<<<< HEAD
+            "dev-master": "2.5-dev"
+=======
+            "dev-master": "2.6-dev"
+>>>>>>> production_Apr_16/master
+        }
+    }
+}

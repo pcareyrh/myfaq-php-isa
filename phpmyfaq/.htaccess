@@ -22,9 +22,10 @@ RewriteEngine On
 ## This line here Niraj! :)
 #RedirectMatch 301 ^(.*)$ https://faq.isa.emea.redhat.com
 
+## Update for OCP 3.0+
 # the path to your phpMyFAQ installation
-RewriteBase /phpmyfaq/
-#RewriteBase /
+#RewriteBase /phpmyfaq/
+RewriteBase /
 
 # Maintenance Section - Uncomment the lines below according to your need
 # Write below your client IP address (e.g.: 127.0.0.1)

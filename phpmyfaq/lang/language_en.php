@@ -861,7 +861,7 @@ $PMF_LANG['recordsControlCenter'] = 'FAQ records configuration';
 
 // added v2.0.0 - 2007-03-17 by Thorsten
 $PMF_LANG['msgInstantResponse'] = 'Instant Response';
-$PMF_LANG['msgInstantResponseMaxRecords'] = '. Find below the first %d records.<br><h4>Didn\'t find what you were looking for below?<br>Please open a new Ticket sending an email to <a href=\"mailto:isa-emea@redhat.com\">isa-emea@redhat.com</a>.</h4><br>';
+$PMF_LANG['msgInstantResponseMaxRecords'] = '. Find below the first %d records.<br><h4>Didn\'t find what you were looking for below?<br>Please open a new Ticket by clicking on one of the links below: <br><br> EMEA: <a href=\"https://url.corp.redhat.com/isa-emea-form\">new Ticket for EMEA</a>. <br><br> APAC: <a href=\"https://url.corp.redhat.com/isa-request\">new Ticket for APAC</a>.</h4><br>';
 
 // added v2.0.0 - 2007-03-29 by Thorsten
 $LANG_CONF['records.defaultActivation'] = array(0 => "checkbox", 1 => "Activate new records (default: deactivated)");
